@@ -15,7 +15,6 @@ class countandsay {
                 }
                 next+=Integer.toString(count)+curr.charAt(i);
                 i++;
-
             }
             curr=next;
         }
