@@ -11,7 +11,7 @@ class Solution {
             }
             left[i]=max;   //stores the height to the building from left to right respectively
         }
-
+        
         max=-1;
         for(int i=height.length-1;i>=0;i--)
         {
