@@ -20,5 +20,4 @@ class countandsay {
         }
         return curr;
     }
-
 }

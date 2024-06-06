@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<nums.length-1;i++)
         {
             curfarthest=Math.max(curfarthest,i+nums[i]);
-            if(i==curend)
+            if(i == curend)
             {
                 jumps++;
                 curend=curfarthest;

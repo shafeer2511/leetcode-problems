@@ -17,7 +17,8 @@ class Solution {
             {
                 left++;
             }
-            else{
+            else
+            {
                 right--;
             }
         }
