@@ -32,4 +32,16 @@
 | ------- |
 | [0112-path-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/0112-path-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
+## Array
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shafeer2511/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shafeer2511/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shafeer2511/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
