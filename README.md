@@ -58,4 +58,16 @@
 |  |
 | ------- |
 | [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/shafeer2511/leetcode-problems/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/shafeer2511/leetcode-problems/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/shafeer2511/leetcode-problems/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
