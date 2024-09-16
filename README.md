@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shafeer2511/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
@@ -47,9 +48,14 @@
 ## Math
 |  |
 | ------- |
+| [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2491-smallest-even-multiple](https://github.com/shafeer2511/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/shafeer2511/leetcode-problems/tree/master/2491-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
 <!---LeetCode Topics End-->
