@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shafeer2511/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shafeer2511/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -49,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2491-smallest-even-multiple](https://github.com/shafeer2511/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shafeer2511/leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
