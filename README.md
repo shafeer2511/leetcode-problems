@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shafeer2511/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shafeer2511/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shafeer2511/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -77,6 +78,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shafeer2511/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shafeer2511/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
