@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shafeer2511/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shafeer2511/leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 ## Dynamic Programming
 |  |
@@ -87,4 +89,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shafeer2511/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shafeer2511/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
