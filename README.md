@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/0112-path-sum) |
+| [0386-lexicographical-numbers](https://github.com/shafeer2511/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shafeer2511/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Linked List
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/shafeer2511/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
