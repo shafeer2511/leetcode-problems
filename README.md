@@ -26,6 +26,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/shafeer2511/leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
