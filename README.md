@@ -26,6 +26,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/shafeer2511/leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shafeer2511/leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
