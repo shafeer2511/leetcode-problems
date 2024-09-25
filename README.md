@@ -50,6 +50,7 @@
 | [0042-trapping-rain-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shafeer2511/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
@@ -79,6 +80,7 @@
 | [0010-regular-expression-matching](https://github.com/shafeer2511/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,4 +127,9 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/shafeer2511/leetcode-problems/tree/master/0386-lexicographical-numbers) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Counting
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
