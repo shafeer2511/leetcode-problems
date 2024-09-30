@@ -14,6 +14,7 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/0112-path-sum) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shafeer2511/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -41,6 +42,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/0112-path-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Array
@@ -48,6 +50,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [0729-my-calendar-i](https://github.com/shafeer2511/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0731-my-calendar-ii) |
@@ -159,4 +162,12 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0731-my-calendar-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
