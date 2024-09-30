@@ -50,6 +50,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/shafeer2511/leetcode-problems/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -125,6 +126,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shafeer2511/leetcode-problems/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/shafeer2511/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -132,6 +134,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/shafeer2511/leetcode-problems/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
