@@ -55,6 +55,7 @@
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shafeer2511/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafeer2511/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0729-my-calendar-i](https://github.com/shafeer2511/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0941-sort-array-by-parity](https://github.com/shafeer2511/leetcode-problems/tree/master/0941-sort-array-by-parity) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shafeer2511/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafeer2511/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shafeer2511/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
