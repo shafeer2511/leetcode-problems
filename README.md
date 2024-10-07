@@ -11,6 +11,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/shafeer2511/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shafeer2511/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shafeer2511/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/shafeer2511/leetcode-problems/tree/master/0067-add-binary) |
 | [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shafeer2511/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [1923-sentence-similarity-iii](https://github.com/shafeer2511/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shafeer2511/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
