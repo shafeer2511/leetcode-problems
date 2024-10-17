@@ -82,6 +82,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/shafeer2511/leetcode-problems/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
+| [0670-maximum-swap](https://github.com/shafeer2511/leetcode-problems/tree/master/0670-maximum-swap) |
 | [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2491-smallest-even-multiple](https://github.com/shafeer2511/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
@@ -134,6 +135,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
+| [0670-maximum-swap](https://github.com/shafeer2511/leetcode-problems/tree/master/0670-maximum-swap) |
 ## Sorting
 |  |
 | ------- |
