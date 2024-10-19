@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shafeer2511/leetcode-problems/tree/master/0067-add-binary) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/shafeer2511/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shafeer2511/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
@@ -103,6 +104,7 @@
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0443-string-compression](https://github.com/shafeer2511/leetcode-problems/tree/master/0443-string-compression) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/shafeer2511/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/shafeer2511/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shafeer2511/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -117,6 +119,7 @@
 | [0010-regular-expression-matching](https://github.com/shafeer2511/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/shafeer2511/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
 | ------- |
