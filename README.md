@@ -76,6 +76,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shafeer2511/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shafeer2511/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shafeer2511/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2722-prime-in-diagonal](https://github.com/shafeer2511/leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shafeer2511/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shafeer2511/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -125,6 +126,7 @@
 | [1923-sentence-similarity-iii](https://github.com/shafeer2511/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/shafeer2511/leetcode-problems/tree/master/2580-circular-sentence) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shafeer2511/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shafeer2511/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
@@ -208,6 +210,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shafeer2511/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shafeer2511/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shafeer2511/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shafeer2511/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
