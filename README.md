@@ -76,6 +76,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shafeer2511/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shafeer2511/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shafeer2511/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shafeer2511/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shafeer2511/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shafeer2511/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shafeer2511/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/shafeer2511/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shafeer2511/leetcode-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shafeer2511/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shafeer2511/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
