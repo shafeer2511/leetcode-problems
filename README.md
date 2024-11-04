@@ -121,6 +121,7 @@
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0443-string-compression](https://github.com/shafeer2511/leetcode-problems/tree/master/0443-string-compression) |
+| [0812-rotate-string](https://github.com/shafeer2511/leetcode-problems/tree/master/0812-rotate-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shafeer2511/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shafeer2511/leetcode-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/shafeer2511/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
@@ -283,4 +284,8 @@
 | [2089-maximum-matrix-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/shafeer2511/leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shafeer2511/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shafeer2511/leetcode-problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
