@@ -60,6 +60,7 @@
 | [0075-sort-colors](https://github.com/shafeer2511/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shafeer2511/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shafeer2511/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shafeer2511/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shafeer2511/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/shafeer2511/leetcode-problems/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0443-string-compression](https://github.com/shafeer2511/leetcode-problems/tree/master/0443-string-compression) |
@@ -137,6 +139,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shafeer2511/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shafeer2511/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
 |  |
@@ -207,6 +210,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/shafeer2511/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Counting
@@ -253,6 +257,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/shafeer2511/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shafeer2511/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shafeer2511/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -294,4 +299,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shafeer2511/leetcode-problems/tree/master/0812-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
