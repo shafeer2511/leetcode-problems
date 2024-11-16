@@ -12,6 +12,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/shafeer2511/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shafeer2511/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shafeer2511/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shafeer2511/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
@@ -75,6 +76,7 @@
 | [0731-my-calendar-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0941-sort-array-by-parity](https://github.com/shafeer2511/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shafeer2511/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shafeer2511/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/shafeer2511/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/shafeer2511/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/shafeer2511/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
@@ -205,12 +207,14 @@
 | [0443-string-compression](https://github.com/shafeer2511/leetcode-problems/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/shafeer2511/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/shafeer2511/leetcode-problems/tree/master/0941-sort-array-by-parity) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shafeer2511/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/shafeer2511/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shafeer2511/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shafeer2511/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -231,6 +235,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/shafeer2511/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0731-my-calendar-ii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shafeer2511/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Segment Tree
 |  |
 | ------- |
