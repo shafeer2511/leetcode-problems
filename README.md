@@ -81,6 +81,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/shafeer2511/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/shafeer2511/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/shafeer2511/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/shafeer2511/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -210,6 +211,7 @@
 | [0941-sort-array-by-parity](https://github.com/shafeer2511/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shafeer2511/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/shafeer2511/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/shafeer2511/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shafeer2511/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Monotonic Stack
 |  |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shafeer2511/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/shafeer2511/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/shafeer2511/leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shafeer2511/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
