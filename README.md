@@ -72,6 +72,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shafeer2511/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafeer2511/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shafeer2511/leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/shafeer2511/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0941-sort-array-by-parity](https://github.com/shafeer2511/leetcode-problems/tree/master/0941-sort-array-by-parity) |
@@ -148,6 +149,7 @@
 | [0010-regular-expression-matching](https://github.com/shafeer2511/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shafeer2511/leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shafeer2511/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
 |  |
