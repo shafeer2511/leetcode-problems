@@ -80,6 +80,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shafeer2511/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shafeer2511/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/shafeer2511/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shafeer2511/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1923-sentence-similarity-iii](https://github.com/shafeer2511/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/shafeer2511/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/shafeer2511/leetcode-problems/tree/master/1972-rotating-the-box) |
@@ -138,6 +139,7 @@
 | [0812-rotate-string](https://github.com/shafeer2511/leetcode-problems/tree/master/0812-rotate-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shafeer2511/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shafeer2511/leetcode-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shafeer2511/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1923-sentence-similarity-iii](https://github.com/shafeer2511/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/shafeer2511/leetcode-problems/tree/master/2580-circular-sentence) |
@@ -150,6 +152,7 @@
 | [0042-trapping-rain-water](https://github.com/shafeer2511/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shafeer2511/leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shafeer2511/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shafeer2511/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
 |  |
