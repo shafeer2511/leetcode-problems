@@ -153,6 +153,7 @@
 | [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shafeer2511/leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shafeer2511/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2562-count-ways-to-build-good-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shafeer2511/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
 |  |
