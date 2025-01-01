@@ -137,6 +137,7 @@
 | [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0443-string-compression](https://github.com/shafeer2511/leetcode-problems/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/shafeer2511/leetcode-problems/tree/master/0812-rotate-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/shafeer2511/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shafeer2511/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shafeer2511/leetcode-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shafeer2511/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -259,6 +260,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0731-my-calendar-ii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/shafeer2511/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/shafeer2511/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/shafeer2511/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
 ## Divide and Conquer
