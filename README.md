@@ -86,6 +86,7 @@
 | [1972-rotating-the-box](https://github.com/shafeer2511/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
+| [2358-number-of-ways-to-split-array](https://github.com/shafeer2511/leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shafeer2511/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shafeer2511/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -265,6 +266,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shafeer2511/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/shafeer2511/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/shafeer2511/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
+| [2358-number-of-ways-to-split-array](https://github.com/shafeer2511/leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shafeer2511/leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Divide and Conquer
 |  |
