@@ -29,6 +29,7 @@
 | [0112-path-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/0112-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/shafeer2511/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shafeer2511/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1396-count-servers-that-communicate](https://github.com/shafeer2511/leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Linked List
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/0112-path-sum) |
+| [1396-count-servers-that-communicate](https://github.com/shafeer2511/leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/shafeer2511/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -77,6 +79,7 @@
 | [0731-my-calendar-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0941-sort-array-by-parity](https://github.com/shafeer2511/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shafeer2511/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/shafeer2511/leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shafeer2511/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shafeer2511/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/shafeer2511/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
@@ -238,6 +241,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shafeer2511/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [1396-count-servers-that-communicate](https://github.com/shafeer2511/leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shafeer2511/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shafeer2511/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -319,6 +323,7 @@
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shafeer2511/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/shafeer2511/leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1972-rotating-the-box](https://github.com/shafeer2511/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/shafeer2511/leetcode-problems/tree/master/2722-prime-in-diagonal) |
@@ -331,4 +336,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/shafeer2511/leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
