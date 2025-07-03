@@ -139,6 +139,7 @@
 | [0067-add-binary](https://github.com/shafeer2511/leetcode-problems/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/shafeer2511/leetcode-problems/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0443-string-compression](https://github.com/shafeer2511/leetcode-problems/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/shafeer2511/leetcode-problems/tree/master/0812-rotate-string) |
@@ -288,6 +289,7 @@
 | ------- |
 | [0139-word-break](https://github.com/shafeer2511/leetcode-problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/shafeer2511/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/shafeer2511/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shafeer2511/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shafeer2511/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafeer2511/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
