@@ -80,6 +80,7 @@
 | [0941-sort-array-by-parity](https://github.com/shafeer2511/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shafeer2511/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/shafeer2511/leetcode-problems/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shafeer2511/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shafeer2511/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shafeer2511/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/shafeer2511/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
@@ -116,6 +117,7 @@
 | [0067-add-binary](https://github.com/shafeer2511/leetcode-problems/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/shafeer2511/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0670-maximum-swap](https://github.com/shafeer2511/leetcode-problems/tree/master/0670-maximum-swap) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shafeer2511/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shafeer2511/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2155-find-missing-observations](https://github.com/shafeer2511/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2491-smallest-even-multiple](https://github.com/shafeer2511/leetcode-problems/tree/master/2491-smallest-even-multiple) |
