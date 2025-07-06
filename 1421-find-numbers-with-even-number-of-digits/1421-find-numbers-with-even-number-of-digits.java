@@ -18,6 +18,7 @@ class Solution {
             n=n*-1;
         }
 
-        return (int)(Math.log10(n)+1);
+        return (int)(Math.log10(n)+1);  //finds the number of digits of a number ... log2 will be used to find the no.of digits in binary numbers
+        
     }
 }
