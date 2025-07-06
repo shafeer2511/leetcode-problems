@@ -85,6 +85,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shafeer2511/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/shafeer2511/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shafeer2511/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1791-richest-customer-wealth](https://github.com/shafeer2511/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1923-sentence-similarity-iii](https://github.com/shafeer2511/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/shafeer2511/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/shafeer2511/leetcode-problems/tree/master/1972-rotating-the-box) |
@@ -331,6 +332,7 @@
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shafeer2511/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/shafeer2511/leetcode-problems/tree/master/1396-count-servers-that-communicate) |
+| [1791-richest-customer-wealth](https://github.com/shafeer2511/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/shafeer2511/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/shafeer2511/leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/shafeer2511/leetcode-problems/tree/master/2722-prime-in-diagonal) |
